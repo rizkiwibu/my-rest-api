@@ -1,8 +1,10 @@
 const fs = require('fs')
 
 global.creator = 'ikystore'// yourname
-global.MONGO_DB_URI = "" //database mongodb 
-global.ACTIVATION_TOKEN_SECRET = "-@Pqnap+@(/1jAPPnew/@10" //isi apa aja bebas
+global.MONGO_DB_URI = "
+
+mongodb+srv://irfantampan12:<password>@cluster0.jvjrbak.mongodb.net/?retryWrites=true&w=majority" //database mongodb 
+global.ACTIVATION_TOKEN_SECRET = "-@Pqnap+@(/1jAPPnew/@110" //isi apa aja bebas
 global.your_email = "rizkiku683@gmail.com" //email
 global.email_password = "rizkiku683" //application password email
 global.limitCount = 10000
